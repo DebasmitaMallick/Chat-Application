@@ -1,10 +1,17 @@
-## Welcome to React Chat Application
+# Welcome to React Chat Application
 
-This is a react chat application made with react chat engine with google and facebook authetication.
+## About the project -
+
+- This is a real-time chat application made with React, React Chat Engine, and Firebase, with Google and Facebook authentication. 
+- The first page is a sign-up page. Upon successful authentication, the user is redirected to the chat page where they can create a new chat room, add other available users, and send them messages. 
+- This is a fully responsive app.
+- This application has been deployed on Netlify.
 
 ## Live site link -
 
 https://chatapp-react123.netlify.app/
+
+## Preview -
 
 ![image](https://user-images.githubusercontent.com/67649413/224617369-4da6002b-8024-46a4-abc6-e6f2426472ae.png)
 
