@@ -5,9 +5,6 @@ import { auth } from '../firebase';
 import firebase from 'firebase/compat/app';
 import './login.css';
 
-/**
- * Login page with google and facebook auth provider buttons
- */
 const Login = () => {
 
   return (
