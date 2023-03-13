@@ -10,7 +10,9 @@ const Login = () => {
   return (
     <div id='login-page'>
       <div className='heading'>
+
         <h2>Welcome to Arrowhead</h2>
+        
       </div>
       <div id='login-card'>
         <h2>Sign Up</h2>
