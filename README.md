@@ -7,10 +7,6 @@
 - This is a fully responsive app.
 - This application has been deployed on Netlify.
 
-## Live site link -
-
-https://chatapp-react123.netlify.app/
-
 ## Preview -
 
 ![image](https://user-images.githubusercontent.com/67649413/224617369-4da6002b-8024-46a4-abc6-e6f2426472ae.png)
